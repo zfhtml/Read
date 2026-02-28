@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Tvbox QingNing</h1>
+<h1>ZF影视</h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-zhoulibin-ff69b4)](https://github.com/zfhtml)

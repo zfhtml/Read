@@ -600,4 +600,4 @@ v
 >
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ZF影视&type=Date)](https://star-history.com/#ZF影视&Date)
+[![Star History Chart](https://www.star-history.com/#zfhtml/zfhtml&type=date&legend=top-left)](https://www.star-history.com/#zfhtml/zfhtml&type=date&legend=top-left)

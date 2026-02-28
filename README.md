@@ -8,11 +8,9 @@
 ## 𝟬𝟲. 单个接口分享链接
 
 
-> * **【单仓】 星辰：**   
-> https://fmbox.cc/
 >
 > * **【单仓】 分享：**  
-> https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json  
+> https://raw.githubusercontent.com/maoystv/6/main/000.json  
 >
 > * **【单仓】 小屋：**  
 > https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json  

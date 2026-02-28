@@ -1,8 +1,8 @@
 <div align="center">
-<h1>Tvbox QingNing</h1>
+<h1>ZF影视</h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Auth](https://img.shields.io/badge/Auth-zhoulibin-ff69b4)](https://github.com/Zhou-Li-Bin)
+[![Auth](https://img.shields.io/badge/Auth-zhoulibin-ff69b4)](https://github.com/zfhtml)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Zhou-Li-Bin/Tvbox-QingNing)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing/pulls)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/Zhou-Li-Bin/Tvbox-QingNing?logo=Undertale)](https://github.com/Zhou-Li-Bin/Tvbox-QingNing/stargazers)
 

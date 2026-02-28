@@ -12,11 +12,8 @@
 > * **【单仓】 分享：**  
 > https://raw.githubusercontent.com/maoystv/6/main/000.json  
 >
-> * **【单仓】 小屋：**  
-> https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json  
->
 > * **【单仓】 影探：**  
-> https://ghp.ci/https://raw.githubusercontent.com/vbskycn/tvbox/a244f6f5c08565a9a0e319d6a3cc2e919d05d893/MY%E6%8E%A2%E6%8E%A2.txt  
+> https://raw.githubusercontent.com/vbskycn/tvbox/a244f6f5c08565a9a0e319d6a3cc2e919d05d893/MY%E6%8E%A2%E6%8E%A2.txt  
 >
 > * **【单仓】 宝盒：**  
 >   http://mzjk.top/禁止贩卖  

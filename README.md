@@ -18,14 +18,8 @@
 > * **【单仓】 宝盒：**  
 >   http://mzjk.top/禁止贩卖  
 >
-> * **【单仓】 肥猫：**  
-> http://肥猫.com  
->
 > * **【单仓】 饭太硬：**  
 > http://www.饭太硬.com/tv  
->
-> * **【单仓】 小米：**  
-> https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json  
 >
 > * **【单仓】 OK：**  
 > http://ok321.top/ok  
